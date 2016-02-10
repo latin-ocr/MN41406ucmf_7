@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN41406ucmf_7_0008.png"; bbox 0 0 2905 4448; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 261 698 1440 1156">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 237 502 1440 1156">
+     <span class='ocr_line' id='line_1_1' title="bbox 261 698 1440 1156; baseline 0.009 -88.781"><span class='ocrx_word' id='word_1_1' title='bbox 261 714 937 1156; x_wconf 78' lang='lat' dir='ltr'>Reuss,</span> <span class='ocrx_word' id='word_1_2' title='bbox 1020 698 1440 1077; x_wconf 84' lang='lat' dir='ltr'>Edu</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 23 1816 1433 2988">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 23 1794 1433 3086">
+     <span class='ocr_line' id='line_1_2' title="bbox 23 1816 1433 2285; baseline 0.004 -6"><span class='ocrx_word' id='word_1_3' title='bbox 23 1816 27 1828; x_wconf 3' lang='lat' dir='ltr'><em>A</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 257 1909 986 2280; x_wconf 79' lang='lat' dir='ltr'>Notitia</span> <span class='ocrx_word' id='word_1_5' title='bbox 1061 1913 1433 2285; x_wconf 83' lang='lat' dir='ltr'>eod</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 269 2565 1134 2988; baseline -0.002 -102"><span class='ocrx_word' id='word_1_6' title='bbox 269 2565 1134 2988; x_wconf 78' lang='lat' dir='ltr'>qvattvor</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1465 4448">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1465 4448">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1465 4448; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1465 4448; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 266 3732 1440 4219">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 266 3458 1440 4219">
+     <span class='ocr_line' id='line_1_5' title="bbox 266 3732 1440 4219; baseline -0.016 -120"><span class='ocrx_word' id='word_1_8' title='bbox 266 3732 1288 4219; x_wconf 79' lang='lat' dir='ltr'>Cantabrig</span> <span class='ocrx_word' id='word_1_9' title='bbox 1397 3967 1440 4080; x_wconf 82' lang='grc'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
